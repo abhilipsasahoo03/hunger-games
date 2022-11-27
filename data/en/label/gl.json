@@ -1,0 +1,18 @@
+[
+  {
+    "key": "en:contains-gluten",
+    "name": "Contains gluten"
+  },
+  {
+    "key": "en:dzg-gluten-free",
+    "name": "DZG Gluten free"
+  },
+  {
+    "key": "en:globalg-a-p",
+    "name": "GLOBALG.A.P."
+  },
+  {
+    "key": "en:no-gluten",
+    "name": "No gluten"
+  }
+]

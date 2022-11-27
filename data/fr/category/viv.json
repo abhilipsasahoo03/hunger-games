@@ -1,0 +1,22 @@
+[
+  {
+    "key": "fr:cotes-du-vivarais",
+    "name": "Côtes du Vivarais"
+  },
+  {
+    "key": "fr:romanee-saint-vivant-grand-cru",
+    "name": "Romanée Saint-Vivant grand cru"
+  },
+  {
+    "key": "en:winter-savory",
+    "name": "Sarriette vivace"
+  },
+  {
+    "key": "en:snapper",
+    "name": "Vivaneau"
+  },
+  {
+    "key": "en:snapper-cooked",
+    "name": "Vivaneau cuit"
+  }
+]

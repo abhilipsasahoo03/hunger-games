@@ -1,0 +1,42 @@
+[
+  {
+    "key": "en:designated-origin-denomination",
+    "name": "Ausgewiesene Herkunftsbezeichnung"
+  },
+  {
+    "key": "da:bedre-dyrevelfærd-1-hjerte",
+    "name": "Bedre Dyrevelfærd 1 Herz"
+  },
+  {
+    "key": "da:bedre-dyrevelfærd-2-hjerter",
+    "name": "Bedre Dyrevelfærd 2 Herzen"
+  },
+  {
+    "key": "da:bedre-dyrevelfærd-3-hjerter",
+    "name": "Bedre Dyrevelfærd 3 Herzen"
+  },
+  {
+    "key": "en:belgian-hops",
+    "name": "Belgian hops"
+  },
+  {
+    "key": "en:charte-lu-harmony",
+    "name": "Charte LU Harmony"
+  },
+  {
+    "key": "en:fair-trade",
+    "name": "Fairer Handel"
+  },
+  {
+    "key": "en:haccp",
+    "name": "HACCP"
+  },
+  {
+    "key": "en:halal",
+    "name": "Halal"
+  },
+  {
+    "key": "en:halal-food-authority",
+    "name": "Halal Food Authority"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "key": "en:cooking-helpers",
+    "name": "Ayudas culinarias"
+  },
+  {
+    "key": "en:basque-cake-with-custard",
+    "name": "Basque cake with custard"
+  },
+  {
+    "key": "en:breaded-chicken-cutlets",
+    "name": "Breaded chicken cutlets"
+  },
+  {
+    "key": "en:brioche-filled-with-custard",
+    "name": "Brioche filled with custard"
+  },
+  {
+    "key": "en:vegetable-bouillon-cubes",
+    "name": "Caldos de verduras en cubitos"
+  },
+  {
+    "key": "en:bouillon-cubes",
+    "name": "Caldos en cubitos"
+  },
+  {
+    "key": "en:canned-chocolate-custard-dessert",
+    "name": "Canned chocolate custard dessert"
+  },
+  {
+    "key": "en:canned-custard-desserts",
+    "name": "Canned custard desserts"
+  },
+  {
+    "key": "en:canned-vanilla-custard-dessert",
+    "name": "Canned vanilla custard dessert"
+  },
+  {
+    "key": "en:caramel-custard-dessert",
+    "name": "Caramel custard dessert"
+  }
+]

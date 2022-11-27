@@ -1,0 +1,42 @@
+[
+  {
+    "key": "de:aischgründer-karpfen",
+    "name": "Aischgründer Karpfen"
+  },
+  {
+    "key": "en:pineapple-jams",
+    "name": "Ananas Konfitüren"
+  },
+  {
+    "key": "en:concentrated-pineapple-juices",
+    "name": "Ananassäfte aus Konzentrat"
+  },
+  {
+    "key": "en:apricot-apple-compotes",
+    "name": "Apfel-Aprikosen-Kompott"
+  },
+  {
+    "key": "en:banana-apple-compotes",
+    "name": "Apfel-Bananen-Kompott"
+  },
+  {
+    "key": "fr:compotes-pommes-cassis",
+    "name": "Apfel-Johannisbeer-Kompott"
+  },
+  {
+    "key": "en:chestnut-applesauces",
+    "name": "Apfel-Kastanien-Kompott"
+  },
+  {
+    "key": "fr:compotes-pommes-coing",
+    "name": "Apfel-Quitten-Kompott"
+  },
+  {
+    "key": "en:concentrated-apple-juices",
+    "name": "Apfelsäfte aus Konzentrat"
+  },
+  {
+    "key": "en:applewood-cheese",
+    "name": "Applewood Käse"
+  }
+]
